@@ -33,6 +33,8 @@ export default {
 
 <style scoped>
 #div {
-  border: 1px solid black;
+  background: #f4f4f4;
+  padding: 10px;
+  border-bottom: 1px #ccc dotted;
 }
 </style>
